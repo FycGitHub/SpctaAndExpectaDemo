@@ -1,0 +1,9 @@
+{
+  "commitish" : "v1.0.7",
+  "iOS" : [
+    {
+      "name" : "Specta",
+      "hash" : "b08c6666df1a053ad45c5ea09c0b3d19003153f2ef6f2ecda207dbededb78c8a"
+    }
+  ]
+}

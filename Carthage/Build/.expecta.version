@@ -1,0 +1,9 @@
+{
+  "commitish" : "fc2dd8bf29b8e4edbfeb4639a98b5d87bea03e19",
+  "iOS" : [
+    {
+      "name" : "Expecta",
+      "hash" : "4f91b51e480a3dfb46f3da0776c0cee4ce86343fbead7385835b6638ef12bd01"
+    }
+  ]
+}
